@@ -61,6 +61,12 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				medieval: {
+					purple: '#8B5A3C',
+					gold: '#D4AF37',
+					darkPurple: '#2E1B69',
+					beige: '#F5F5DC'
 				}
 			},
 			borderRadius: {
